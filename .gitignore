@@ -1,0 +1,4 @@
+*.pyc
+Social_web/.idea
+Social_web/.idea/
+**/migrations/
